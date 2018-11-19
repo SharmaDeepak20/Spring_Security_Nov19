@@ -1,0 +1,5 @@
+package com.web.spring.security.config;
+
+public class DataSourceConfig {
+
+}
